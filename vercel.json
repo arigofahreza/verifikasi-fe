@@ -4,5 +4,6 @@
       "source": "/api/VerifikasiLai",
       "destination": "/api/verifikasi"
     }
-  ]
+  ],
+  "buildCommand": "echo 'No build required'"
 }

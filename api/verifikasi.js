@@ -13,6 +13,17 @@ function handler(req, res) {
       opini: 'WTP',
       totalAset: 'IDR 3.986.321.870',
       labaRugiBersih: 'IDR -158.678.130'
+    },
+    '64804690-8bb3-4e8c-a93b-84deb4fefb92': {
+      namaKAP: 'Nama KAP Baru',
+      namaKlien: 'Nama Klien Baru',
+      periode: '01/01/2024 s.d. 31/12/2024',
+      noLAI: '00002/2.1106/AU.2/05/1288-1/1/I/2026',
+      tglLAI: '08/01/2026',
+      apPenanggungJawab: 'Nama AP',
+      opini: 'WTP',
+      totalAset: 'IDR 1.000.000.000',
+      labaRugiBersih: 'IDR 100.000.000'
     }
     // Add more verification codes and their data here
   };
