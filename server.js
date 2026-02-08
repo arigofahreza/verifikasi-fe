@@ -55,5 +55,5 @@ const server = http.createServer((req, res) => {
 
 server.listen(PORT, () => {
   console.log(`Server running at http://localhost:${PORT}/`);
-  console.log(`Test URL: http://localhost:${PORT}/api/verifikasi?code=64804690-8bb3-4e8c-a93b-84deb4fefb91`);
+  console.log(`Test URL: http://localhost:${PORT}/api/verifikasi?code=64804690-8bb3-4e8c-a93b-84deb4fefb92`);
 });
