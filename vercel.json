@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/VerifikasiLai",
+      "destination": "/api/verifikasi"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "verifikasi-lai-clone",
+  "version": "1.0.0",
+  "description": "Clone of LAI verification API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "echo 'No build step required'"
+  },
+  "keywords": [
+    "vercel",
+    "api",
+    "verifikasi"
+  ],
+  "author": "",
+  "license": "MIT"
+}
